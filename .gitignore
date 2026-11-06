@@ -1,0 +1,30 @@
+﻿# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# Data (too large: 3 GB training set, caches, index)
+data/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Word temporary files and documents
+~$*
+~*.tmp
+*.docx
+
+# Credentials (never commit)
+.kaggle/
+kaggle.json
+access_token
+
+# Personal notes and drafts
+notes/
+scratch/

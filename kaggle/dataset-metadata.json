@@ -1,0 +1,6 @@
+{
+  "title": "casmi26-assets",
+  "id": "<kaggle-username>/casmi26-assets",
+  "licenses": [{"name": "CC0-1.0"}],
+  "description": "Assets for a CASMI 2026 submission: candidate pool (train structures + COCONUT, normalized like train normalized_smiles, with RDKit 2026.03.3 metric keys), Morgan fingerprints and NP-likeness of the pool, train structure keys, LightGBM ranker, a wheel of the casmi package, and offline Linux wheels (rdkit 2026.3.3, ms_entropy 1.5.2, pebble 5.2.2)."
+}
